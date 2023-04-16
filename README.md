@@ -1,2 +1,2 @@
 # honeypot
-haneypot for sokka.io 
+Honey Pot
